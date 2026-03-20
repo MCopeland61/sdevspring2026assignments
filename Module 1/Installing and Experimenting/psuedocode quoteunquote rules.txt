@@ -1,0 +1,7 @@
+From what I found in my research, psuedocode doesn't have strict rules, but instead guidelines, some guidelines I found while trying to looking were;
+
+Make your psuedocode easy to understand
+Write it in simple english (essentially don't make the keywords stuff that isn't immediately obvious to a layman)
+Make sure there is a start and end
+Indent it as if it was a real program
+Don't change case rules with variables, stick with what you use first
